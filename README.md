@@ -8,10 +8,10 @@
 - [Git](https://maxfeskov.github.io/notion-icons/git.png)
 
 ## Watterwall Colors
-[orange](https://maxfeskov.github.io/notion-icons/watterfall-orange.png)
-[purple](https://maxfeskov.github.io/notion-icons/watterfall-purple.png)
-[green](https://maxfeskov.github.io/notion-icons/watterfall-green.png)
-[red](https://maxfeskov.github.io/notion-icons/watterfall-red.png)
-[gray](https://maxfeskov.github.io/notion-icons/watterfall-gray.png)
-[blue](https://maxfeskov.github.io/notion-icons/watterfall-blue.png)
-[orange hollow](https://maxfeskov.github.io/notion-icons/watterfall-orange-hollow.png)
+- [orange](https://maxfeskov.github.io/notion-icons/watterfall-orange.png)
+- [purple](https://maxfeskov.github.io/notion-icons/watterfall-purple.png)
+- [green](https://maxfeskov.github.io/notion-icons/watterfall-green.png)
+- [red](https://maxfeskov.github.io/notion-icons/watterfall-red.png)
+- [gray](https://maxfeskov.github.io/notion-icons/watterfall-gray.png)
+- [blue](https://maxfeskov.github.io/notion-icons/watterfall-blue.png)
+- [orange hollow](https://maxfeskov.github.io/notion-icons/watterfall-orange-hollow.png)
